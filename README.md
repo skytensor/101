@@ -4,4 +4,4 @@
 
 # Create Database
 
-`create databases [name]`
+`create databases [name];`
